@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-hanten-dark: #1f2724;
+  --color-primary-hanten-light: #657261;
+  --color-primary-vein-bright: #b3d854;
+  --color-primary-leaf-dark: #88ba54;
+  --color-primary-servant-leaf: #66a962;
+  --color-primary-shirt: #fefffd;
+  --color-primary-cheek-pink: #fbd5d2;
+  --color-primary-cheek-skin: #fff6e4;
+  --color-primary-tail-center: #b7a692;
+  --color-primary-logo-hair: #b7a893;
+  --color-primary-raccoon-ear-tip: #776d5c;
+}
