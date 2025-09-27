@@ -33,6 +33,7 @@ export default defineConfig([
           caughtErrors: "all",
         },
       ],
+      "semi": ["error", "never"],
     },
   },
 ]);
